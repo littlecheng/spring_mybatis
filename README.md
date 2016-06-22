@@ -3,7 +3,7 @@
 
 log4j-web-2.6.1.jar <br>
 mybatis-3.1.1.jar <br>
-mybatis-spring-1.3.0.jar &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; note：mybatis  spring 整合用到该jar包 <br>  
+mybatis-spring-1.3.0.jar <br>  
 mysql-connector-java-5.1.7-bin.jar <br>
 
 以下是4.3.0全部spring jar包<br>
