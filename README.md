@@ -1,6 +1,6 @@
 # spring_mybatis
 <h3 background="red">spring + springmvc + mybatis + log4j  整合</h3><br>
-
+log4j-1.2.15.jar<br>
 log4j-web-2.6.1.jar <br>
 mybatis-3.1.1.jar <br>
 mybatis-spring-1.3.0.jar <br>  
